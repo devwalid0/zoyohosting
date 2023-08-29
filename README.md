@@ -1,1 +1,1 @@
-**# Zero-Pravicy-Policy**
+**# ZoYo o-Pravicy-Policy**
