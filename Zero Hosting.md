@@ -47,8 +47,6 @@
 -We love Tell Any One Are Using A Bot We are responsible if anything happens to your server.
 
 Email: zoyobot87@gmail.com
-Devs: ``walud1823``
+Devs: ``walid1823``
 
 <a href="https://discord.gg/t9wyKpEYZa"><img src="https://discord.com/api/guilds/869266167796207728/widget.png?style=banner2"></a>
-
-<a href="https://discord.gg/t9wyKpEYZa" target="_blank"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> </a>  <a href="mailto: zoyobot87@gmail.com"> <img src="https://img.shields.io/badge/Outlook-145bcd?style=for-the-badge&logo=Microsoft Outlook&logoColor=white" /> </a>
