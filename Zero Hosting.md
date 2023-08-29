@@ -32,7 +32,7 @@
 
 **Are We Sell Or Share Users Data ?**
 
--No, We Do Not Sell and Share Any Data Stored by ZeroHosting.
+-No, We Do Not Sell and Share Any Data Stored by ZoYo Hosting.
 
 **Can Users Request Deletion Thier Data ?**
 
@@ -48,5 +48,3 @@
 
 Email: zoyobot87@gmail.com
 Devs: ``walid1823``
-
-<a href="https://discord.gg/t9wyKpEYZa"><img src="https://discord.com/api/guilds/869266167796207728/widget.png?style=banner2"></a>
